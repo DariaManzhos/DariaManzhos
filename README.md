@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻  Обо мне: 
 
-<!--
-**DariaManzhos/DariaManzhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий аналитик данных с бэкграундом в логистике (12+ лет). Люблю разбираться в сложных задачах с помощью SQL и превращать большие объёмы данных в понятные визуализации.
 
-Here are some ideas to get you started:
+## 🛠️ Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки и базы данных:** SQL, PostgreSQL, Python.
+
+**Анализ данных:** pandas, NumPy, исследовательский анализ данных (EDA), статистический анализ, A/B-тестирование.
+
+**Визуализация:** Yandex DataLens, Matplotlib, Seaborn.
+
+**Инструменты:** Jupyter Notebook, DBeaver, Git, GitHub.
+
+## 📊 Проекты
+
+- **Яндекс Афиша — исследование пользовательского спроса**
+- **TED — интерактивный дашборд конференций**
+- **Исследование финансирования стартапов**
+
+## 🎓 Образование
+
+**Аналитик данных** — Яндекс Практикум, 2026 · [сертификат](ссылка)
+
+## 📬 Контакты
+
+**Telegram:** [@manzhosdaria](https://t.me/manzhosdaria)
+
+**Email:** [dvmanzhos@yandex.ru](mailto:dvmanzhos@yandex.ru)
+
+📍 Екатеринбург · Открыта к удалённой работе и гибриду в Екатеринбурге.
